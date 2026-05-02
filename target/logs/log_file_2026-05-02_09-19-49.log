@@ -1,0 +1,10 @@
+2026-05-02 09:19:50 INFO  common.BasePage2 - Entered UserName as standard_user
+2026-05-02 09:19:50 INFO  common.BasePage2 - Entered Password as secret_sauce
+2026-05-02 09:19:50 INFO  common.BasePage2 - Clicked on Login Button
+2026-05-02 09:19:51 INFO  common.BasePage2 - Clicked on Add to Cart Button
+2026-05-02 09:19:51 INFO  common.BasePage2 - Clicked on Shopping Cart
+2026-05-02 09:19:52 INFO  common.BasePage2 - Retrieved name of added cart Product | value: Sauce Labs Bolt T-Shirt
+2026-05-02 09:19:52 ERROR common.BasePage2 - FAIL: verify added productName is same | Condition: EQUALS | Expected: Sauce Labs Bolt T-Shirt | Actual: Sauce Labs Bolt T-Shirtn
+2026-05-02 09:19:52 INFO  common.BasePage2 - Soft Assertion Failure | Screenshot attached
+2026-05-02 09:19:52 INFO  common.BasePage2 - Clicked on Burget Button
+2026-05-02 09:19:53 INFO  common.BasePage2 - Clicked on Logout Button

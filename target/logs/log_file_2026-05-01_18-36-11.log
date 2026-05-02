@@ -1,0 +1,7 @@
+2026-05-01 18:36:12 INFO  common.BasePage2 - Entered text 'standard_user' into: By.id: user-name
+2026-05-01 18:36:12 INFO  common.BasePage2 - Entered text 'secret_sauce' into: By.id: password
+2026-05-01 18:36:12 INFO  common.BasePage2 - Clicked element: By.id: login-button
+2026-05-01 18:36:13 INFO  common.BasePage2 - JS clicked element: By.id: react-burger-menu-btn
+2026-05-01 18:36:18 INFO  common.BasePage2 - Waited for 5 seconds
+2026-05-01 18:36:18 INFO  common.BasePage2 - Clicked element: By.xpath: /html/body/div/div/div/div[1]/div[1]/div[1]/div/div[2]/div[1]/nav/a[3]
+2026-05-01 18:36:23 INFO  common.BasePage2 - Waited for 5 seconds

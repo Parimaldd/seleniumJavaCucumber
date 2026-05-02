@@ -1,0 +1,5 @@
+2026-05-01 19:27:15 INFO  common.BasePage2 - Entered UserName as standard_user
+2026-05-01 19:27:15 INFO  common.BasePage2 - Entered Password as secret_sauce
+2026-05-01 19:27:16 INFO  common.BasePage2 - Clicked on Logout Button
+2026-05-01 19:27:16 INFO  common.BasePage2 - Clicked on Burget Button
+2026-05-01 19:27:21 INFO  common.BasePage2 - Clicked on Logout Button

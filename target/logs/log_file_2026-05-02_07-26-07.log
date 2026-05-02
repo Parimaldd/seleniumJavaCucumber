@@ -1,0 +1,8 @@
+2026-05-02 07:26:08 INFO  common.BasePage2 - Entered UserName as standard_user
+2026-05-02 07:26:08 INFO  common.BasePage2 - Entered Password as secret_sauce
+2026-05-02 07:26:08 INFO  common.BasePage2 - Clicked on Login Button
+2026-05-02 07:26:08 INFO  common.BasePage2 - Clicked on Add to Cart Button
+2026-05-02 07:26:09 INFO  common.BasePage2 - Clicked on Shopping Cart
+2026-05-02 07:26:09 INFO  common.BasePage2 - Retrieved name of added cart Product | value: Sauce Labs Backpack
+2026-05-02 07:26:12 INFO  common.BasePage2 - Clicked on Burget Button
+2026-05-02 07:26:12 INFO  common.BasePage2 - Clicked on Logout Button

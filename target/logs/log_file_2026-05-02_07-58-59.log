@@ -1,0 +1,8 @@
+2026-05-02 07:58:59 INFO  common.BasePage2 - Entered UserName as standard_user
+2026-05-02 07:59:00 INFO  common.BasePage2 - Entered Password as secret_sauce
+2026-05-02 07:59:00 INFO  common.BasePage2 - Clicked on Login Button
+2026-05-02 07:59:00 INFO  common.BasePage2 - Clicked on Add to Cart Button
+2026-05-02 07:59:00 INFO  common.BasePage2 - Clicked on Shopping Cart
+2026-05-02 07:59:01 INFO  common.BasePage2 - Retrieved name of added cart Product | value: Sauce Labs Bolt T-Shirt
+2026-05-02 07:59:01 ERROR common.BasePage2 - FAIL: verify added productName is same | Expected: Sauce Labs Bolt T-Shirt | Actual: Sauce Labs Bolt T-Shirtn
+2026-05-02 07:59:01 INFO  common.BasePage2 - Assertion Failure | Screenshot attached

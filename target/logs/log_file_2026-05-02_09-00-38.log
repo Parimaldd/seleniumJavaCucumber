@@ -1,0 +1,9 @@
+2026-05-02 09:00:38 INFO  common.BasePage2 - Entered UserName as standard_user
+2026-05-02 09:00:38 INFO  common.BasePage2 - Entered Password as secret_sauce
+2026-05-02 09:00:39 INFO  common.BasePage2 - Clicked on Login Button
+2026-05-02 09:00:39 INFO  common.BasePage2 - Clicked on Add to Cart Button
+2026-05-02 09:00:39 INFO  common.BasePage2 - Clicked on Shopping Cart
+2026-05-02 09:00:40 INFO  common.BasePage2 - Retrieved name of added cart Product | value: Sauce Labs Bolt T-Shirt
+2026-05-02 09:00:40 INFO  common.BasePage2 - PASS: verify added productName is same | Expected: Sauce Labs Bolt T-Shirt | Actual: Sauce Labs Bolt T-Shirt
+2026-05-02 09:00:40 INFO  common.BasePage2 - Clicked on Burget Button
+2026-05-02 09:00:41 INFO  common.BasePage2 - Clicked on Logout Button
